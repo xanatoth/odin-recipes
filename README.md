@@ -1,1 +1,1 @@
-This is a webpage I'm making for The Odin Project. It will contain a couple of recipes that I enjoy as will as an image.
+This is a webpage I'm making for The Odin Project. It will contain a couple of recipes that I enjoy as will as an image, per the requirements of the assignment.
